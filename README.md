@@ -21,7 +21,7 @@ Este projeto tem como objetivo desenvolver uma aplicação para auxiliar na gest
     * `api_meteorologica.R`: Script para conectar-se à API meteorológica e coletar dados.
 * **Documentação:**
     * `README.md`: Este arquivo.
-    * `relatorio_artigo.pdf`: Resumo do artigo científico.
+    * `relatorio_artigo.pdf`: Resumo do artigo científico. INCLUIR 
 
 ## Como Contribuir
 
@@ -34,10 +34,10 @@ Este projeto tem como objetivo desenvolver uma aplicação para auxiliar na gest
 ## Instruções de Uso
 
 * **Instalar as dependências:**
-    * Python: `pip install numpy pandas`
-    * R: Instalar os pacotes necessários (e.g., `install.packages("tidyverse")`)
+    * Python: `pip install XXX`
+    * R: Instalar os pacotes necessários (e.g., `install.packages("XXX")`)
 * **Executar a aplicação:**
-    * Python: Executar o script principal (e.g., `python interface.py`)
+    * Python: Executar o script principal (e.g., `python atividade.py`)
     * R: Executar os scripts de análise e API (e.g., `Rscript analise_estatistica.R`)
 
 ## Vídeo Demonstrativo
