@@ -4,6 +4,8 @@
 
 Este projeto tem como objetivo desenvolver uma aplicação para auxiliar na gestão de fazendas, utilizando as linguagens Python e R. A aplicação visa calcular áreas de plantio, manejo de insumos e realizar análises estatísticas básicas. 
 
+##Culturas escilhidas Soja e Café
+
 ## Tecnologias Utilizadas
 
 * **Python:** Linguagem principal para o desenvolvimento da aplicação, utilizando bibliotecas como NumPy e Pandas.
@@ -13,15 +15,16 @@ Este projeto tem como objetivo desenvolver uma aplicação para auxiliar na gest
 ## Estrutura do Projeto
 
 * **Python:**
-    * `calculos.py`: Contém as funções para cálculos de área, manejo de insumos e outras operações.
+    * `atividade.py`: Contém as funções para cálculos de área, manejo de insumos e outras operações.
     * `interface.py`: Responsável pela interface com o usuário, permitindo a entrada e saída de dados.
-    * `dados.txt`: Arquivo para armazenamento dos dados.
+    * `informacoes_culturas.csv`: Arquivo para armazenamento dos dados.
 * **R:**
     * `analise_estatistica.R`: Script para realizar as análises estatísticas.
     * `api_meteorologica.R`: Script para conectar-se à API meteorológica e coletar dados.
 * **Documentação:**
-    * `README.md`: Este arquivo.
-    * `relatorio_artigo.pdf`: Resumo do artigo científico. INCLUIR 
+    * `README.md`
+    * Relatório final em ZIP
+     
 
 ## Como Contribuir
 
