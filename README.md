@@ -53,9 +53,3 @@ Este projeto tem como objetivo desenvolver uma aplicação para auxiliar na gest
 * Integrar com outros sistemas, como sensores e drones.
 * Desenvolver um dashboard para visualização dos dados.
 
-## Contato
-[Seu nome]
-[Seu email]
-
-## Licença
-[Mencione a licença utilizada, por exemplo, MIT]
