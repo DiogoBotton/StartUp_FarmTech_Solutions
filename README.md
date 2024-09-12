@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo desenvolver uma aplicação para auxiliar na gestão de fazendas, utilizando as linguagens Python e R. A aplicação visa calcular áreas de plantio, manejo de insumos e realizar análises estatísticas básicas. 
 
-##Culturas escolhidas Soja e Café
+## Culturas escolhidas Soja e Café
 
 ## Tecnologias Utilizadas
 
