@@ -41,7 +41,8 @@ Este projeto tem como objetivo desenvolver uma aplicação para auxiliar na gest
     * R: Instalar os pacotes necessários (e.g., `install.packages("XXX")`)
 * **Executar a aplicação:**
     * Python: Executar o script principal (e.g., `python atividade.py`)
-    * R: Executar os scripts de análise e API (e.g., `Rscript analise_estatistica.R`)
+    * R: Para executar o script de analise estatística abrir o arquivo jupyter notebooks (e.g., `analise_estatistica.ipynb`)
+    * R: Executar o script de API meteorologica (e.g., `Rscript api_meteorologica.R`)
 
 ## Vídeo Demonstrativo
 
