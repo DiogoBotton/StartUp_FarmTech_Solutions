@@ -19,7 +19,7 @@ Este projeto tem como objetivo desenvolver uma aplicação para auxiliar na gest
     * `interface.py`: Responsável pela interface com o usuário, permitindo a entrada e saída de dados.
     * `informacoes_culturas.csv`: Arquivo para armazenamento dos dados.
 * **R:**
-    * `analise_estatistica.R`: Script para realizar as análises estatísticas.
+    * `analise_estatistica.ipynb`: Script para realizar as análises estatísticas.
     * `api_meteorologica.R`: Script para conectar-se à API meteorológica e coletar dados.
 * **Documentação:**
     * `README.md`
